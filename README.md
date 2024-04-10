@@ -12,5 +12,4 @@
   <li>Assistente de vendas</li>
   <li>Gerente de restaurante</li>
 
-<h2>Contato:</h2>
-  <li><a href="https://wa.me/71991273857">WhatsApp</a></li>
+
