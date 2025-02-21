@@ -11,5 +11,6 @@
 <h2>Experiência:</h2>
   <li>Assistente de vendas</li>
   <li>Gerente de restaurante</li>
+  <li>Analista de Sistemas e Programador do Governo Estadual</li>
 
 
